@@ -1,2 +1,2 @@
 # Prova
-repositorio compartido El bachir y Samuel
+repositorio compartido El bachir y Jordi
